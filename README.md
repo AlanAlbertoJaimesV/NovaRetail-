@@ -9,12 +9,6 @@ Este repositorio contiene el análisis estadístico y exploratorio realizado par
 - `datasets/novaretail_comportamiento_clientes_2024.csv`
   → Dataset base con 15,000 registros de comportamiento y métricas de consumo.
 
-## ▶ Cómo abrir el notebook en Google Colab
-
-Haz clic en el siguiente botón para visualizar y ejecutar el código directamente en la nube:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)[cite: 22]
-
 ## 📘 Cómo reproducir el análisis
 
 1. Abre el archivo `notebooks/novaretail_analisis.ipynb`[cite: 22].
